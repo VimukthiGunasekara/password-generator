@@ -1,6 +1,14 @@
 # Strong Password Generator
 This program generates a random password based on the criteria selected by the user.that can generate strong and unique passwords automatically. 
 
+
+## Submission
+
+Deployed URL: https://vimukthigunasekara.github.io/password-generator/
+<br>
+GitHub Repo URL: https://github.com/VimukthiGunasekara/password-generator
+
+
 ## User Story
 
 ``` 
@@ -31,3 +39,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ```
+
+## Mock-Up
+
+![Screenshot](./assets/images/desktop-screnshot.png)

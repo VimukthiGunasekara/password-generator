@@ -90,7 +90,7 @@ function writePassword() {
   passwordText.value = password;
 }
 
-// // copyPassword function code here
+// copyPassword function code here
 function copyPassword(){
   passwordText = document.getElementById("password");
   passwordText.select();
